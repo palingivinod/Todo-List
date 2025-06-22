@@ -6,7 +6,7 @@ Interface
 
 ![image](https://github.com/user-attachments/assets/2aed3313-8601-48d8-83b3-5fe8f1607488)
 
-Adding NewTasks
+Adding Newtasks
 
 ![image](https://github.com/user-attachments/assets/42e659ff-fed7-4eb7-b8c1-2c7afd9963b7)
 
@@ -14,7 +14,7 @@ Updating task
 
 ![image](https://github.com/user-attachments/assets/6c8abbc5-2139-4823-862f-0c13304d67fb)
 
-Updated list
+Updated task
 
 ![image](https://github.com/user-attachments/assets/88a5ec12-3651-415f-94ff-f34db4aa344e)
 
